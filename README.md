@@ -20,4 +20,4 @@ Moreover, we performed emotions analysis according to genre and artist.
 
 As a result we developed poster. Available in Polish.
 
-![alt text](https://github.com/Repcak00/SocialMediaAnalysis/tree/main/poster)
+![alt text](https://github.com/Repcak00/SocialMediaAnalysis/blob/main/poster/Powiedz_czego_słuchasz_a_powiem_Ci_kim_jesteś.png)
