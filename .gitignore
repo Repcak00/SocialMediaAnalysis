@@ -160,6 +160,3 @@ cython_debug/
 .idea/
 
 
-# data folder
-data/
-	!data/.gitkeep
