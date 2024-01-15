@@ -15,3 +15,9 @@ Data has been scrapped from YouTube users comments below different genres and ar
 We trained MBTI detection model as a multiclass classifier. We used it to analyze music comments and prepared statistics about each genre and artist.
 
 Moreover, we performed emotions analysis according to genre and artist.
+
+## Poster
+
+As a result we developed poster. Available in Polish.
+
+![alt text](https://github.com/Repcak00/SocialMediaAnalysis/tree/main/poster)
